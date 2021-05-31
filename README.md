@@ -2,7 +2,9 @@
 
 The main purpose of the bot is to help users discover restaurants quickly and efficiently and to provide a good restaurant discovery experience. 
 We are using the Zomato API as the knowledge base to query upon and retrieve results.
+
 Tech Stack Used : RASA NLU, Spacy, LSTM , RNN, Python
+
 The bot takes the following inputs from the user:
 
 ## City: 
